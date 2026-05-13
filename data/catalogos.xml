@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo version="1.0" fecha_actualizacion="2024-01-01">
+  <categoria id="1" nombre="Electrónica">
+    <descripcion>Categoria de productos: Electronica</descripcion>
+    <subcategorias>
+      <subcategoria id="101" nombre="Smartphones">Smartphones</subcategoria>
+      <subcategoria id="102" nombre="Laptops">Laptops</subcategoria>
+      <subcategoria id="103" nombre="Televisores">Televisores</subcategoria>
+      <subcategoria id="104" nombre="Audio">Audio</subcategoria>
+      <subcategoria id="105" nombre="Cámaras">Cámaras</subcategoria>
+      <subcategoria id="106" nombre="Accesorios">Accesorios</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="2" nombre="Ropa">
+    <descripcion>Categoria de productos: Ropa</descripcion>
+    <subcategorias>
+      <subcategoria id="201" nombre="Hombre">Hombre</subcategoria>
+      <subcategoria id="202" nombre="Mujer">Mujer</subcategoria>
+      <subcategoria id="203" nombre="Niños">Niños</subcategoria>
+      <subcategoria id="204" nombre="Deportiva">Deportiva</subcategoria>
+      <subcategoria id="205" nombre="Formal">Formal</subcategoria>
+      <subcategoria id="206" nombre="Casual">Casual</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="3" nombre="Alimentos">
+    <descripcion>Categoria de productos: Alimentos</descripcion>
+    <subcategorias>
+      <subcategoria id="301" nombre="Lácteos">Lácteos</subcategoria>
+      <subcategoria id="302" nombre="Bebidas">Bebidas</subcategoria>
+      <subcategoria id="303" nombre="Snacks">Snacks</subcategoria>
+      <subcategoria id="304" nombre="Cereales">Cereales</subcategoria>
+      <subcategoria id="305" nombre="Carnes">Carnes</subcategoria>
+      <subcategoria id="306" nombre="Frutas y Verduras">Frutas y Verduras</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="4" nombre="Hogar">
+    <descripcion>Categoria de productos: Hogar</descripcion>
+    <subcategorias>
+      <subcategoria id="401" nombre="Muebles">Muebles</subcategoria>
+      <subcategoria id="402" nombre="Decoración">Decoración</subcategoria>
+      <subcategoria id="403" nombre="Electrodomésticos">Electrodomésticos</subcategoria>
+      <subcategoria id="404" nombre="Limpieza">Limpieza</subcategoria>
+      <subcategoria id="405" nombre="Cocina">Cocina</subcategoria>
+      <subcategoria id="406" nombre="Jardín">Jardín</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="5" nombre="Deportes">
+    <descripcion>Categoria de productos: Deportes</descripcion>
+    <subcategorias>
+      <subcategoria id="501" nombre="Fútbol">Fútbol</subcategoria>
+      <subcategoria id="502" nombre="Basquetbol">Basquetbol</subcategoria>
+      <subcategoria id="503" nombre="Natación">Natación</subcategoria>
+      <subcategoria id="504" nombre="Ciclismo">Ciclismo</subcategoria>
+      <subcategoria id="505" nombre="Fitness">Fitness</subcategoria>
+      <subcategoria id="506" nombre="Running">Running</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="6" nombre="Belleza">
+    <descripcion>Categoria de productos: Belleza</descripcion>
+    <subcategorias>
+      <subcategoria id="601" nombre="Maquillaje">Maquillaje</subcategoria>
+      <subcategoria id="602" nombre="Cuidado Piel">Cuidado Piel</subcategoria>
+      <subcategoria id="603" nombre="Cabello">Cabello</subcategoria>
+      <subcategoria id="604" nombre="Fragancias">Fragancias</subcategoria>
+      <subcategoria id="605" nombre="Uñas">Uñas</subcategoria>
+      <subcategoria id="606" nombre="Spa">Spa</subcategoria>
+    </subcategorias>
+  </categoria>
+  <categoria id="7" nombre="Juguetes">
+    <descripcion>Categoria de productos: Juguetes</descripcion>
+    <subcategorias>
+      <subcategoria id="701" nombre="Educativos">Educativos</subcategoria>
+      <subcategoria id="702" nombre="Acción">Acción</subcategoria>
+      <subcategoria id="703" nombre="Muñecas">Muñecas</subcategoria>
+      <subcategoria id="704" nombre="Construcción">Construcción</subcategoria>
+      <subcategoria id="705" nombre="Electrónicos">Electrónicos</subcategoria>
+      <subcategoria id="706" nombre="Exterior">Exterior</subcategoria>
+    </subcategorias>
+  </categoria>
+</catalogo>
